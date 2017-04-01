@@ -10,9 +10,3 @@ es as the argument to generate.py.
 python3 generate.py path-to-file
 
 ```
-~                                                                                                             
-~                                                                                                             
-~                                                                                                             
-~                                                                                                             
-~                                                                                                             
-~                
